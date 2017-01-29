@@ -111,7 +111,7 @@
       "^.+\\.css$": "<rootDir>\\config\\jest\\CSSStub.js"
     },
     "setupFiles": [
-      "<rootDir>\\config\\polyfills.js"
+      "<rootDir>\\config\\jest\\polyfills.js"
     ],
     "testPathIgnorePatterns": [
       "<rootDir>/(scripts/build|docs|node_modules)/"
