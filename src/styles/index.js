@@ -9,5 +9,5 @@ export const resume = {
     marginRight: 'auto'
   },
   sidebar: { flex: '1 0', padding: 0 },
-  main: { flex: '2 0', padding: 0, zIndex: -1 }
+  main: { flex: '2 0', padding: 0 }
 };
