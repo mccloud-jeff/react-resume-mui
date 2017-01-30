@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/mccloud-jeff/react-resume-mui.svg?branch=master)](https://travis-ci.org/mccloud-jeff/react-resume-mui)
+[![dependencies Status](https://david-dm.org/mccloud-jeff/react-resume-mui/status.svg)](https://david-dm.org/mccloud-jeff/react-resume-mui)
 
 #[React + Material UI Resume](https://react-resume-mui.herokuapp.com/)
 
