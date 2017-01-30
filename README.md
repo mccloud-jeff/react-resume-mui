@@ -1,4 +1,6 @@
-## React + Material UI Resume
+[![Build Status](https://travis-ci.org/mccloud-jeff/react-resume-mui.svg?branch=master)](https://travis-ci.org/mccloud-jeff/react-resume-mui)
+
+#[React + Material UI Resume](https://react-resume-mui.herokuapp.com/)
 
 A deliberately over-engineered web application for displaying my Resume/CV. Its primary purpose is to demonstrate a full
 stack of some of the technologies that I frequently work with:
