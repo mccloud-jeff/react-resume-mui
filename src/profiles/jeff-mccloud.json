@@ -1,11 +1,6 @@
 {
   "contactInfo": {
     "name": "Jeff McCloud",
-    "addressLines": [
-      "92-1210 Makakilo Drive #1",
-      "Kapolei, HI 96707"
-    ],
-    "phone": "808-753-4415",
     "email": "mccloud.jeff@gmail.com",
     "photo": "/assets/images/profile-img.jpg"
   },
@@ -55,10 +50,19 @@
   ],
   "workExperience": [
     {
+      "icon": "/assets/images/logo.gorilla.png",
+      "employer": "Gorilla Logic, Inc. - Boulder, CO (100% Remote)",
+      "url": "https://gorillalogic.com/",
+      "position": "Senior Software Developer",
+      "dates": "May 2017 to Present",
+      "text": "Under construction...",
+      "keywords": "Tech: .NET, Visual Basic .NET, ActiveReports, Oracle, MS Access, Eagle PACE"
+    },
+    {
       "icon": "/assets/images/logo.hmsa.png",
       "employer": "Hawaii Medical Service Association - Honolulu, HI",
       "url": "https://hmsa.com/",
-      "position": "Senior Software Engineer",
+      "position": "Senior Software Developer",
       "dates": "Aug 2016 to Present (Contractor)",
       "text": "Brought on board to help meet increasing development demands of company's public faciing website, hmsa.com. Developed new modules and refactored others to cohere with changes introduced by the Affordable Care Act. Refactored dozens of web pages and controls to meet Section 508 web accessibility standards. Helped develop new web module for healthcare providers. Lead effort to provide unit testing and code coverage across all C# and JavaScript code. Helped develop automated testing procedures using Selenium. Helped prepare transition of build process and testing environments to Microsoft Azure.",
       "keywords": "Tech: .NET, C#, MVC, WCF, Web Api, Entity Framework, Unity Framework, MSTest, Moq, Selenium, Bootstrap, AJAX, jQuery, Grunt, LESS, Apache Lucene, Team Foundation Server (TFS), SQL Server, Azure"
@@ -67,7 +71,7 @@
       "icon": "/assets/images/logo.corona.png",
       "employer": "Corona Environmental Consulting LLC - Rockland, MA (100% Remote)",
       "url": "http://www.coronaenv.com/",
-      "position": "Senior Software Engineer",
+      "position": "Senior Software Developer",
       "dates": "Nov 2014 to May 2016",
       "text": "Hired as the company’s first engineer to help build the Software Development group at a burgeoning startup company in the water treatment and analysis industry. Developed early prototypes that helped secure $4 million in funding and a partnership with American Water, the nation’s largest publicly traded water and wastewater utility company. Helped create company’s flagship product Watersuite; a suite of web based GIS applications and real-time microservices using React, AngularJS, Node.js, Vert.x, ActiveMQ, and PostgreSQL. User interfaces were built using React and AngularJS focusing on responsive design, high performance, and customer usability. Developed a WebSocket based transport layer and data store to provide an ultra smooth user experience to our mapping applications. Created a set of NPM libraries and Yeoman generators that allowed other developers to create full stack geospatially aware web applications very quickly. Stood up Continuous Integration and Bug Tracking software for the development team. Worked to promote and ensure a proper Agile development process was to be followed on newly formed projects. Performed technical interviews and helped with onboarding of new hires",
       "keywords": "Tech: Node.js, Vert.x, JavaScript, ES6, TypeScript, C#, .NET, AngularJS, ReactJS, Redux, OpenLayers 3, Cesium, ArcGIS, PostgreSQL, PostGIS, Redis, MongoDB, Turf.js, GraphQL, Relay, Socket.IO, ActiveMQ, Material UI, Bootstrap, Kendo UI, jQuery, dojo, d3, Gulp, Babel, Webpack, Yeoman, SASS, LESS, YouTrack, TeamCity, GitHub, JIRA, Amazon Web Services"
@@ -76,7 +80,7 @@
       "icon": "/assets/images/logo.vsolvit.png",
       "employer": "VSolvit LLC - Ventura, CA (100% Remote)",
       "url": "http://www.vsolvit.com/",
-      "position": "Senior Software Engineer",
+      "position": "Senior Software Developer",
       "dates": "Apr 2013 to Nov 2014",
       "text": "Created a reusable and extensible Javascript UI component framework, based on the ArcGIS JavaScript API, Kendo UI, and Bootstrap. This framework would serve as the foundation of several applications at VSolvit going forward, and allow the company to stand up cross browser JavaScript/HTML5 GIS solutions very quickly. Implemented this framework as part of several community projects and prototypes in the Health and Environmental industries. Contributed to or oversaw development of multiple ASP.NET/MVC, AngularJS, HTML5/JavaScript, and mobile web applications in the GIS space for the U.S. Navy (DoD), U.S. Department of Housing and Urban Development (HUD), and U.S. Department of Agriculture (USDA). Leveraged my unique experience across several projects with the Federal government, particularly with regard to implementing software development and configuration management life cycles that work well within these often more rigid environments. Provided input and direction on all aspects of the Software Development Life Cycle, including peer code review, software design best practices, Source Code Control, Release Management, Configuration Management, and Continuous Integration. Played an integral role in the company’s successful effort to become CMMI certified. Performed technical interviews and helped with onboarding of new hires.",
       "keywords": "Tech: C#, .NET, ASP.NET, MVC, Web API, LINQ, Entity Framework, SQL Server, Oracle, ArcGIS, Bootstrap, JavaScript, Kendo UI, jQuery, dojo, AngularJS, Node.js, Grunt, Gulp, Bower, YouTrack, TeamCity, GitHub, Oracle, SQL Server, Github, Team Foundation Server, Amazon Web Services"
