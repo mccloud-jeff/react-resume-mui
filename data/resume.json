@@ -1,0 +1,173 @@
+{
+  "name": "Jeff McCloud",
+  "title": "Full Stack Web Developer",
+  "summary": "A full stack software engineer with 20+ years of experience building large-scale web applications utilizing .NET and the associated Microsoft ecosystem, and NodeJS and the associated JavaScript frameworks. Current passion and focus is on modern JavaScript front-end development, geospatial applications, and Mixed Reality (XR/AR/VR). Also have 3 years of experience with Unity 3D development.",
+  "email": "mccloud.jeff@gmail.com",
+  "phone": "808-753-4415",
+  "skills": [
+    "Server-side development using all versions of .NET and .NET Core, ASP.NET MVC and Web API",
+    "Fluent in C#, C++, and modern JavaScript (ES2015/2017, Babel, JSX, TypeScript, Flow)",
+    "Front end development with most modern, popular JavaScript frameworks and tooling: React, Redux, GraphQL, Relay, Angular, jQuery, Bootstrap, Kendo UI, Backbone.js, ExtJS, dojo",
+    "Database development using MS SQL Server, Oracle, PostgreSQL, MySQL, and NoSQL: MongoDB, Redis, CouchDB. ORM using Entity Framework (.NET), Sequelize, Bookshelf.js, mongoose",
+    "GIS/Geospatial using OpenLayers 3, Cesium, Leaflet, Google Maps API, Bing Maps API, Turf.js, OpenGeo Suite (PostGIS, GeoServer, QGIS), ArcGIS Server 9.3-10.3.x",
+    "Continuous Integration/Deployment using TFS, TeamCity, CruiseControl.NET, Travis CI, and Jenkins. Source Code Control using TFS, Git, and Subversion (SVN). Cloud deployment to Microsoft Azure, Amazon AWS, and Heroku"
+  ],
+  "website": null,
+  "linkedIn": "https://www.linkedin.com/in/jeff-mccloud-89882512",
+  "github": "https://github.com/mccloud-jeff/react-resume-mui",
+  "currentPosition": {
+    "title": "Principal Software Engineer",
+    "name": "EquipGIS - Watertown, MA (100% Remote, Part Time)",
+    "startDate": "1/1/2019",
+    "details": [
+      "Principal architect and developer of Gaia GIS Web Platform; the main product of EquipGIS.",
+      "Gaia GIS Web Platform built upon React, GraphQL, REST APIs, PostgreSQL/PostGIS and can consume services from ArcGIS or any other REST or GraphQL endpoint.",
+      "Implemented several stand-alone web applications using the Gaia GIS Web Platform. Deployed on AWS EC2 instances, and utilizing several AWS services, including Cognito, SES, EC2, Lambda Functions, RDS, Route 53 and others.",
+      "Happy to demonstrate these Gaia web applications and walk through the architecture and code.",
+      "Perform technical interviews of contract developers, and coordinating their work and schedules; including offshore candidates."
+    ],
+    "summary": "Tech: JavaScript/TypeScript, HTML, CSS, React, GraphQL, NodeJS, .NET, PostgreSQL, PostGIS, QGIS, ArcGIS, Git/GitHub, AWS, Azure",
+    "logo": "/logos/equipgis.jpg",
+    "website": "https://www.equipgis.com"
+  },
+  "priorPositions": [
+    {
+      "title": "Senior Software Developer (Contractor)",
+      "name": "Western Asset Management - Pasadena, CA (100% Remote)",
+      "startDate": "5/1/2017",
+      "endDate": "6/30/2021",
+      "details": [
+        "Hired to modernize and convert more than fifty legacy Visual Basic 6.0/ActiveReports projects to the latest VB.NET and ActiveReports. Created a suite of unit and integration tests for each report, bringing a level of confidence to this 15-year-old code that was not previously possible.",
+        "Re-created two Microsoft Access database applications as modern React web applications with an Oracle back-end. Wrote unit and integration tests using Jest and react-testing-library",
+        "Created new and optimized existing Oracle queries, functions, and stored procedures.",
+        "Created Unix shell scripts, Autosys jobs, and Oracle procedures to support critical ETL processes."
+      ],
+      "summary": "Tech: .NET, C#, VB.NET, MSTest, ActiveReports, React, Redux, GraphQL, Oracle, Autosys, Unix Shell Scripts, Perl, Eagle PACE, Jenkins, ANT, Jira, Git, SVN, CVS",
+      "logo": "/logos/wam.jpg",
+      "website": "https://www.westernasset.com"
+    },
+    {
+      "title": "Senior Software Developer (Contractor)",
+      "name": "Hawaii Medical Service Association (HMSA) - Honolulu, HI",
+      "startDate": "8/1/2016",
+      "endDate": "4/31/2017",
+      "details": [
+        "Senior developer on two public-facing, high traffic ASP.NET-based websites for Hawaii’s largest health insurance provider.",
+        "Wrote production code and unit tests for all layers including the ASP.NET/jQuery user interface, Web API and WCF web services, Entity Framework based data layer, and SQL Server stored procedures.",
+        "Lead efforts to write missing Unit Tests and dramatically increase code coverage across all JavaScript and C# code and to drive team toward true Test-Driven Development (Red-Green-Refactor).",
+        "Wrote several web components, a boilerplate project, and a styleguide as part of an initiative to begin modernizing the front-ends to use a new ReactJS, Redux, and GraphQL stack.",
+        "Worked with testers to write automated end-to-end tests using Cucumber, SpecFlow, and Selenium."
+      ],
+      "summary": "Tech: .NET, C#, MVC, WCF, Web API, Entity Framework, Unity Framework, MSTest, Moq, Selenium, Coded UI, Bootstrap, AJAX, jQuery, Grunt, LESS, Apache Lucene, Team Foundation Server (TFS), SQL Server, SSRS, SSIS, Azure",
+      "logo": "/logos/hmsa.jpg",
+      "website": "https://www.hmsa.com"
+    },
+    {
+      "title": "Senior Software Developer",
+      "name": "Corona Environmental Consulting LLC. - Rockland, MA (100% Remote)",
+      "startDate": "11/1/2014",
+      "endDate": "5/31/2016",
+      "details": [
+        "Hired as the company’s first engineer to help build out their new development team using Lean/Agile/Scrum.",
+        "Developed early MVPs and prototypes that were crucial in securing $4 million in funding.",
+        "Helped architect and develop a suite of web-based GIS applications and real-time microservices",
+        "Developed several front-end user interfaces using Modern Javascript, React/Redux/GraphQL, jQuery, and Kendo UI.",
+        "Wrote back-end microservices using Node.js, Vert.x, ActiveMQ, Sequelize, MySQL, PostgreSQL, and PostGIS.",
+        "Used modern JavaScript tooling including ESLint, Webpack, Mocha, Chai, Jest, Enzyme.",
+        "Set up team's Continuous Deployment and Integration testing using Travis CI and Heroku, and later TeamCity and AWS.",
+        "Set up team's YouTrack bug tracking software for team.",
+        "Performed technical interviews, mentoring of junior developers, and onboarding of new hires."
+      ],
+      "summary": "Tech: Node.js, Vert.x, JavaScript, ES6, TypeScript, C#, .NET, AngularJS, ReactJS, Redux, OpenLayers 3, Cesium, ArcGIS, PostgreSQL, PostGIS, Redis, MongoDB, Turf.js, GraphQL, Relay, Socket.IO, ActiveMQ, Material UI, Bootstrap, Kendo UI, jQuery, dojo, d3, Gulp, Babel, Webpack, Yeoman, SASS, LESS, YouTrack, TeamCity, GitHub, JIRA, Amazon Web Services",
+      "logo": "/logos/corona.jpg",
+      "website": "https://www.coronaenv.com"
+    },
+    {
+      "title": "Senior Software Developer",
+      "name": "VSolvit LLC. - Ventura, CA (100% Remote)",
+      "date": "Apr 2013 to Nov 2014",
+      "startDate": "4/1/2013",
+      "endDate": "11/31/2014",
+      "details": [
+        "Served as tech lead simultaneously on two distributed Agile teams.",
+        "Created a reusable framework using ASP.NET, AngularJS, Kendo UI, and Bootstrap that allowed the company to stand up prototypes for potential clients very quickly.",
+        "Created several SPA web applications using that framework for the U.S. Navy (DoD), U.S. Department of Agriculture (USDA), and U.S. Department of Housing and Urban Development (HUD) (latter available publicly at https://resources.hud.gov/)",
+        "Leveraged my unique experience across several projects with the Federal government to provide creative solutions to technical problems posed by working within these often very rigid and secure environments.",
+        "Provided company-wide guidance on all aspects of Software Development, including Lean/Agile, Peer Code Review, Test Driven Development (TDD), Source Code Control, Release Management, Configuration Management, Continuous Deployment and Integration.",
+        "Played an integral role in the company’s successful effort to become CMMI certified.",
+        "Performed technical interviews, mentoring of junior developers, and onboarding of new hires."
+      ],
+      "summary": "Tech: ArcGIS, Bootstrap, JavaScript, Kendo UI, jQuery, dojo, AngularJS, Node.js, Grunt, Gulp, Bower, C#, .NET, ASP.NET, MVC, Web API, LINQ, Entity Framework, SQL Server, Oracle, YouTrack, TeamCity, GitHub, Oracle, SQL Server, Github, Team Foundation Server, Amazon Web Services",
+      "logo": "/logos/vsolvit.jpg",
+      "website": "https://www.vsolvit.com"
+    },
+    {
+      "title": "Senior GIS Developer",
+      "name": "Geographic Information Services, Inc. - Birmingham, AL (100% Remote)",
+      "date": "Feb 2009 to Apr 2013",
+      "startDate": "2/1/2009",
+      "endDate": "4/31/2013",
+      "details": [
+        "Converted from contractor to full time employee when GIS, Inc. was awarded the contract for the project I was working on with NAVFAC, below.  Served as senior developer/tech lead on distributed Agile team. Principal developer of the Oracle and .NET back-end of the Navy's large enterprise GIS solution named GeoReadiness; an ArcGIS-based mapping application used to manage resources and facilities at naval bases worldwide. Developed GIS Inc.’s Source Code Control and Continuous Integration strategies, and helped implement formal Agile/Scrum practices for our geographically dispersed team. Granted Secret level security clearance with DoD."
+      ],
+      "summary": "Tech: .NET 3.5-4.5, C#, Oracle, SQL Server, REST, SOAP, ArcGIS Server, ArcGIS Desktop Extensions, ArcGIS API for JavaScript, Silverlight, and Flex, JavaScript, HTML, CSS, SVN, Git, OnTime",
+      "logo": "/logos/gisinc.jpg",
+      "website": "https://www.aximgeo.com/"
+    },
+    {
+      "title": "Senior Software Developer",
+      "name": "Naval Facilities Engineering Command (NAVFAC) – Pearl Harbor, HI (75% Remote)",
+      "date": "May 2004 to Feb 2009",
+      "startDate": "5/1/2004",
+      "endDate": "2/31/2009",
+      "details": [
+        "Worked as a contractor on major GIS project for the U.S. Navy from 2004 to 2009. Same project spanned multiple employers, both full time and part time. Originally brought on in 2004 as a contractor to act as a .NET expert and mentor to a small development team who were transitioning development from Borland Delphi to .NET. In this capacity, I developed several reusable components and web server controls in C# to help kick start and expedite their application development, as well as to serve as .NET training modules for new hires. Developed large suite of GIS web applications name RSIMS (Regional Shore Installation Management System) using ASP.NET and ArcGIS. Granted Secret level security clearance with DoD"
+      ],
+      "summary": "Tech: .NET 2.0-3.5, ASP.NET, C#, SQL Server, Oracle, REST, SOAP, ArcGIS, JavaScript, HTML, CSS, Visual SourceSafe",
+      "logo": "/logos/navfac.jpg",
+      "website": "https://www.navfac.navy.mil/"
+    },
+    {
+      "title": "Senior Software Developer",
+      "name": "LPL Financial Services – San Diego, CA (100% Remote, beginning 2004)",
+      "date": "Aug 2001 to Oct 2012",
+      "startDate": "8/1/2001",
+      "endDate": "10/31/2012",
+      "details": [
+        "Developed key portions of LPL’s web-based financial investment and trading software suite, BranchNet; including modules responsible for Account and Portfolio management, as well as an enhanced security model.  Developed multi-tiered web applications starting with traditional ASP and C++ and eventually migrating to .NET in 2002.  Data on SQL Server and 3rd party mainframes was managed by reusable COM components written in C++ and by .NET assemblies written in C#.  Championed the early use of XML/XSLT and XMLHTTP/AJAX, to create more robust web forms and reports.  Spearheaded the shift in development philosophy at LPL toward reusable component design and a layered application framework.  Identified and fixed memory leaks and un-optimized code in legacy components."
+      ],
+      "summary": "Tech: .NET 1.1-3.5, ASP.NET, C#, C++, COM, DCOM, .NET Remoting, WebForms, AJAX, SQL Server, Oracle, COM, DCOM, C++, Visual SourceSafe. StarTeam",
+      "logo": "/logos/lpl.jpg",
+      "website": "https://www.lpl.com/"
+    },
+    {
+      "title": "Software Developer (C++, C#, VB)",
+      "name": "Multiple Employers / Contracts – San Diego, CA",
+      "date": "Jan 1996 to Aug 2001",
+      "startDate": "1/1/1996",
+      "endDate": "8/31/2001",
+      "details": [
+        "Worked as a software developer and architect for variety of companies in the software and other industries. Most noteworthy position was as Software Engineer IV at the short-lived joint venture formed by Microsoft and Qualcomm known as Wireless Knowledge back in 1999-2001, where I helped develop Microsoft's early attempts to get into the nascent mobile market - Microsoft Mobile Information Server and Outlook Mobile Access. Additional detail on this older employment history has been left off for brevity, but is available upon request."
+      ],
+      "summary": "Tech: Visual C++, MFC, ATL, COM, DCOM, COM+, Visual Basic, C#, SQL, Oracle",
+      "logo": "/logos/developer.jpg",
+      "website": "https://news.microsoft.com/2000/09/26/microsoft-announces-mobile-information-server-new-platform-for-mobile-data-services/"
+    }
+  ],
+  "education": [
+    {
+      "name": "Microsoft Certified Professional Developer (MCPD)",
+      "dateText": "2009-2014",
+      "details": [
+        "Received MCPD certification in the Microsoft .NET Framework (Exams 70-536, 70-562, and 70-564 - Transcript available upon request)."
+      ]
+    },
+    {
+      "name": "Secret Clearance with U.S. DoD ",
+      "dateText": "Multiple 2004-2014",
+      "details": [
+        "Received Secret level clearance on multiple projects while working for the United States Navy. Eligible to re-obtain this clearance at any time."
+      ]
+    }
+  ]
+}

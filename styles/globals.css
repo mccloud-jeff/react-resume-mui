@@ -1,0 +1,48 @@
+hr {
+  border-left: none;
+  border-right: none;
+  border-top: "2px solid #fff";
+  height: 2px;
+  background-color: #fff;
+  width: 100%;
+}
+
+.paperPage {
+  margin: 0.25in auto 0.25in auto;
+  max-width: 1024px;
+}
+
+@media screen and (max-width: 1024px) {
+  .paperPage {
+    margin: 0;
+  }
+}
+
+@media print {
+  .screenOnly {
+    display: none;
+  }
+
+  #__next,
+  header {
+    margin: 0;
+    padding: 0;
+  }
+
+  header * {
+    color: #000;
+  }
+
+  hr {
+    border-top: "2px solid #000";
+    background-color: #000;
+  }
+
+  .paperPage {
+    margin: 0;
+    padding: 0;
+    max-width: 8.5in;
+    box-shadow: none;
+    overflow: unset;
+  }
+}
