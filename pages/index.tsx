@@ -66,7 +66,7 @@ const Home: NextPage = () => {
         <Paper className="paperPage" elevation={6}>
           <Header {...headerInfo} />
 
-          <Box sx={{ p: 2 }}>
+          <Box sx={{ p: 2, pt: 0 }}>
             <Section
               iconComponent={CodeIcon}
               title="PROGRAMMING LANGUAGES and TECHNICAL SKILLS"

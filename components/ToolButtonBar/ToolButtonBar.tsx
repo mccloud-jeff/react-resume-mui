@@ -15,7 +15,7 @@ const ToolButtonBar: FunctionComponent<ToolButtonBarProps> = ({
 }) => {
   return (
     <>
-      <AppBar position="sticky" color="default" className="screenOnly">
+      <AppBar position="relative" color="default" className="screenOnly">
         <MuiToolbar variant="dense">
           <PaletteModeButton onModeChange={onPaletteModeChange} />
           <div style={{ flexGrow: 1 }} />

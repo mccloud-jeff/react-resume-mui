@@ -16,7 +16,7 @@ const Section: FunctionComponent<SectionProps> = ({
   const SectionIcon = iconComponent;
 
   return (
-    <List sx={{ ml: 3, mb: 4, p: 0 }}>
+    <List sx={{ ml: 1, mb: 4, p: 0 }}>
       <ListItem sx={{ mb: 3, mt: 3, borderBottom: `1px solid ${theme.palette.text.primary}`, width: "calc(100% - 0.25in)" }}>
         {SectionIcon && (
           <ListItemIcon sx={{ mr: -2.5 }}>

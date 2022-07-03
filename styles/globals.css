@@ -12,6 +12,10 @@ hr {
   max-width: 1024px;
 }
 
+.printOnly {
+  display: none;
+}
+
 @media screen and (max-width: 1024px) {
   .paperPage {
     margin: 0;
@@ -19,6 +23,10 @@ hr {
 }
 
 @media print {
+  .printOnly {
+    display: unset;
+  }
+
   .screenOnly {
     display: none;
   }
