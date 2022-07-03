@@ -13,7 +13,7 @@ hr {
 }
 
 .printOnly {
-  display: none;
+  display: none !important;
 }
 
 @media screen and (max-width: 1024px) {
@@ -28,7 +28,7 @@ hr {
   }
 
   .screenOnly {
-    display: none;
+    display: none !important;
   }
 
   #__next,
