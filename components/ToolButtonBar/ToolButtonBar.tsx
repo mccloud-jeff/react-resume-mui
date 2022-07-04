@@ -19,11 +19,11 @@ const ToolButtonBar: FunctionComponent<ToolButtonBarProps> = ({
         <MuiToolbar variant="dense">
           <PaletteModeButton onModeChange={onPaletteModeChange} />
           <div style={{ flexGrow: 1 }} />
-          <ToolButton
+          {/* <ToolButton
             Icon={PrintIcon}
             tooltip="Print Resume"
-            onClick={() => window.print()}
-          />
+            onClick={() => self.print()}
+          /> */}
           <ToolButton
             Icon={GitHubIcon}
             tooltip="View Code on GitHub"

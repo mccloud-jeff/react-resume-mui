@@ -10,12 +10,14 @@ import {
 } from "@mui/material";
 import EmailIcon from "@mui/icons-material/Email";
 import PhoneIcon from "@mui/icons-material/Phone";
+import LanguageIcon from "@mui/icons-material/Language";
 
 interface NameHeaderProps {
   name: string;
   title: string;
   email: string;
   phone: string;
+  website?: string;
   sticky?: boolean;
 }
 
@@ -30,6 +32,7 @@ const NameHeader: FunctionComponent<NameHeaderProps> = ({
   title,
   email,
   phone,
+  website,
   sticky,
 }) => (
   <AppBar
@@ -46,6 +49,18 @@ const NameHeader: FunctionComponent<NameHeaderProps> = ({
         {name}
       </Typography>
       <Box>
+        {website && (
+          <Link color="white" underline="hover" href={`${website}`} target="_blank">
+            <ListItem dense>
+              <ListItemIcon sx={{ minWidth: 32, color: "unset" }}>
+                <LanguageIcon fontSize="small" />
+              </ListItemIcon>
+              <Typography variant="subtitle2" fontWeight={700}>
+                {website.replace(/^.*:\/\//i, "").replace(/\/*$/, "")}
+              </Typography>
+            </ListItem>
+          </Link>
+        )}
         <Link color="white" underline="hover" href={`mailto:${email}`}>
           <ListItem dense>
             <ListItemIcon sx={{ minWidth: 32, color: "unset" }}>

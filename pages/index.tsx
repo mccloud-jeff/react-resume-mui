@@ -28,13 +28,14 @@ const {
   summary,
   email,
   phone,
+  website,
   skills,
   currentPosition,
   priorPositions,
   education,
 } = resume;
 
-const headerInfo = { name, title, summary, email, phone };
+const headerInfo = { name, title, summary, email, phone, website };
 
 const Home: NextPage = () => {
   const systemMode: PaletteMode = useMediaQuery("(prefers-color-scheme: dark)")
