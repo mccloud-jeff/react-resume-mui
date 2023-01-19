@@ -30,7 +30,7 @@ const {
   phone,
   website,
   skills,
-  currentPosition,
+  currentPositions,
   priorPositions,
   education,
 } = resume;
@@ -80,7 +80,9 @@ const Home: NextPage = () => {
             </Section>
 
             <Section iconComponent={WorkIcon} title="CURRENT POSITION">
-              <Position {...currentPosition} />
+              {currentPositions.map((position) => (
+                <Position key={position.name} {...position} />
+              ))}              
             </Section>
 
             <Section

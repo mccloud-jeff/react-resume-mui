@@ -10,7 +10,7 @@
     "Front end development with most modern, popular JavaScript frameworks and tooling including React, Angular, GraphQL. Still familiar with most legacy JavaScript frameworks such as jQuery, Bootstrap, Kendo UI, Backbone.js, ExtJS, dojo",
     "Database development using MS SQL Server, Oracle, PostgreSQL, MySQL. ORM using Entity Framework (.NET), GraphQL, Sequelize, Bookshelf.js",
     "GIS/Geospatial development using ESRI ArcGIS, OpenLayers, Cesium, MapBox, Leaflet, Turf.js, Google Maps API, Bing Maps API, OpenGeo Suite (PostGIS, GeoServer, QGIS)",
-    "Cloud development and deployment using Microsoft Azure and AWS",    
+    "Cloud development and deployment using Microsoft Azure and AWS",
     "CI/CD using Azure DevOps, GitHub Actions, AWS, TeamCity, Jenkins, Bamboo, CruiseControl.NET, Travis CI",
     "Source Code Control using Git, Azure DevOps, Subversion (SVN)",
     "Issue tracking, Agile project management/collaboration using Jira, Confluence, Azure DevOps, YouTrack"
@@ -18,21 +18,37 @@
   "website": "https://www.jeffmccloud.dev/",
   "linkedIn": "https://www.linkedin.com/in/jeff-mccloud-89882512",
   "github": "https://github.com/mccloud-jeff/react-resume-mui",
-  "currentPosition": {
-    "title": "Principal Software Engineer",
-    "name": "EquipGIS - Watertown, MA (100% Remote, Part Time)",
-    "startDate": "1/1/2019",
-    "details": [
-      "Principal architect and developer of Gaia GIS Web Platform; the main product of EquipGIS",
-      "Gaia GIS Web Platform built on stack of React, NextJS, GraphQL, REST APIs and PostgreSQL/PostGIS. It can also consume services from ArcGIS or any other REST or GraphQL endpoint",
-      "Created several stand-alone applications using the Gaia GIS Web Platform. These are deployed on AWS EC2 instances, and utilize several AWS services, including Cognito, SES, EC2, Lambda Functions, RDS, Route 53 and others",
-      "Happy to demonstrate these Gaia web applications and walk through the architecture and code",
-      "Perform technical interviews of contract developers, and coordinating their work and schedules; including offshore candidates"
-    ],
-    "summary": "Tech: JavaScript/TypeScript, HTML, CSS, React, GraphQL, NodeJS, .NET, PostgreSQL, PostGIS, QGIS, ArcGIS, Git/GitHub, AWS, Azure",
-    "logo": "/logos/equipgis.jpg",
-    "website": "https://www.equipgis.com"
-  },
+  "currentPositions": [
+    {
+      "title": "Principal Software Engineer",
+      "name": "FinWise Bank - Murray, UT (100% Remote, Full Time)",
+      "startDate": "7/5/2022",
+      "details": [
+        "Developed a system-wide notification service using a Microservices architecture",
+        "Worked on the front-end user interfaces made in React, Material UI, and NodeJS",
+        "Performed code reviews of both server and front-end code",
+        "Provided mentorship to junior developers"
+      ],
+      "summary": "Tech: .NET Core, Web API, Microservices Architecture, NServiceBus, SignalR, JavaScript/TypeScript, React, Material UI, Git, Azure DevOps",
+      "logo": "/logos/finwise.jpg",
+      "website": "https://www.finwise.bank/"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "name": "EquipGIS - Watertown, MA (100% Remote, Part Time)",
+      "startDate": "1/1/2019",
+      "details": [
+        "Principal architect and developer of Gaia GIS Web Platform; the main product of EquipGIS",
+        "Gaia GIS Web Platform built on stack of React, NextJS, GraphQL, REST APIs and PostgreSQL/PostGIS. It can also consume services from ArcGIS or any other REST or GraphQL endpoint",
+        "Created several stand-alone applications using the Gaia GIS Web Platform. These are deployed on AWS EC2 instances, and utilize several AWS services, including Cognito, SES, EC2, Lambda Functions, RDS, Route 53 and others",
+        "Happy to demonstrate these Gaia web applications and walk through the architecture and code",
+        "Perform technical interviews of contract developers, and coordinating their work and schedules; including offshore candidates"
+      ],
+      "summary": "Tech: JavaScript/TypeScript, HTML, CSS, React, Material UI, NextJS, NodeJS, GraphQL, .NET, PostgreSQL, OpenLayers, Cesium, PostGIS, QGIS, ArcGIS, Git/GitHub, AWS, Azure",
+      "logo": "/logos/equipgis.jpg",
+      "website": "https://www.equipgis.com"
+    }
+  ],
   "priorPositions": [
     {
       "title": "Senior Software Developer (Contractor)",
