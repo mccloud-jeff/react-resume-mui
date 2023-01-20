@@ -24,7 +24,7 @@ hr {
 
 @media print {
   .printOnly {
-    display: unset !important;
+    display: block !important;
   }
 
   .screenOnly {
