@@ -29,7 +29,7 @@
         "Isolated and extracted dozens of common components from the existing codebase, creating both a reusable component library and design system",
         "Wrote a complex, customized Material UI theme to match the bank's branding and design requirements",
         "Stood up a StoryBook implementation to document and demonstrate the reusable components and design system",
-        "Created a library to serialize our data into XML messages compliant with Fedwire Funds Service ISO 20022",
+        "Created a library to serialize bank's data into XML messages compliant with Fedwire Funds Service ISO 20022",
         "Co-designed a system-wide Notifications service on top of our existing Microservices architecture that could send real-time alerts to the user interface",
         "Performed code reviews of both server and front-end code",
         "Provided mentorship to junior developers"
