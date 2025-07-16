@@ -23,22 +23,27 @@
       "title": "Senior Software Developer",
       "name": "FinWise Bank - Murray, UT (100% Remote, Full Time)",
       "startDate": "7/5/2022",
+      "endDate": "6/6/2025",
       "details": [
-        "Developed a system-wide notification service using a Microservices architecture",
-        "Worked on the front-end user interfaces made in React, Material UI, and NodeJS",
+        "A principal developer of the flagship application's user interface - using React, Material UI, NodeJS, and Vite",
+        "Isolated and extracted dozens of common components from the existing codebase, creating both a reusable component library and design system",
+        "Wrote a complex, customized Material UI theme to match the bank's branding and design requirements",
+        "Stood up a StoryBook implementation to document and demonstrate the reusable components and design system",
+        "Co-designed a system-wide Notifications service on top of our existing Microservices architecture that could send real-time alerts to the user interface",
         "Performed code reviews of both server and front-end code",
         "Provided mentorship to junior developers"
       ],
-      "summary": "Tech: .NET Core, Web API, Microservices Architecture, NServiceBus, SignalR, JavaScript/TypeScript, React, Material UI, Git, Azure DevOps",
+      "summary": "Tech: .NET Core, .NET Web API, Microservices Architecture, Docker/Kubernetes, NServiceBus, SignalR, JavaScript/TypeScript, NodeJS, React, Material UI, Vite, Git, Azure DevOps",
       "logo": "/logos/finwise.jpg",
       "website": "https://www.finwise.bank/"
     },
     {
       "title": "Principal Software Engineer",
-      "name": "EquipGIS - Watertown, MA (100% Remote, Part Time)",
+      "name": "EquipGIS - Watertown, MA (100% Remote, Periodic Contract Work)",
       "startDate": "1/1/2019",
+      "endDate": "8/1/2024",
       "details": [
-        "Principal architect and developer of Gaia GIS Web Platform; the main product of EquipGIS",
+        "Principal architect and developer of Gaia GIS Web Platform; the foundation of many EquipGIS projects",
         "Gaia GIS Web Platform built on stack of React, NextJS, GraphQL, REST APIs and PostgreSQL/PostGIS. It can also consume services from ArcGIS or any other REST or GraphQL endpoint",
         "Created several stand-alone applications using the Gaia GIS Web Platform. These are deployed on AWS EC2 instances, and utilize several AWS services, including Cognito, SES, EC2, Lambda Functions, RDS, Route 53 and others",
         "Happy to demonstrate these Gaia web applications and walk through the architecture and code",
