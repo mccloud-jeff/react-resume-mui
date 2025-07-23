@@ -4,6 +4,7 @@
   "summary": "Senior level developer with extensive experience building secure applications using a wide range of technologies. Specializes in modern Web UI, API, and Database development, as well as geospatial technologies (GIS/XR/VR/AR). Experience working with the Federal and Local Governments, and in the Financial/FinTech, Health, and Real Estate industries. With a strong background in .NET, NodeJS, DevOps, and Agile methodologies, I can bring a strong skillset to any development team with the ability to hit the ground running.",
   "email": "mccloud.jeff@gmail.com",
   "phone": "808-753-4415",
+  "location": "Crown Point, IN",
   "skills": [
     "Fluent in C#, C++, JavaScript / TypeScript, SQL",
     "Server-side development using .NET and .NET Core, Web API, WFC, ASP.NET, NodeJS, Express, NextJS, GraphQL, REST, and more",
@@ -13,7 +14,7 @@
     "Cloud development and deployment using Microsoft Azure and AWS",
     "CI/CD using Azure DevOps, GitHub Actions, AWS, TeamCity, Jenkins, Bamboo, CruiseControl.NET, Travis CI",
     "Source Code Control using Git, Azure DevOps, Subversion (SVN)",
-    "Issue tracking, Agile project management/collaboration using Jira, Confluence, Azure DevOps, YouTrack"
+    "Issue tracking, Agile project management/collaboration using Jira, Azure DevOps, YouTrack, Confluence"
   ],
   "website": "https://www.jeffmccloud.dev/",
   "linkedIn": "https://www.linkedin.com/in/jeff-mccloud-89882512",
@@ -25,16 +26,15 @@
       "startDate": "7/5/2022",
       "endDate": "6/6/2025",
       "details": [
-        "A principal developer of the flagship application's user interface - using React, Material UI, NodeJS, and Vite",
-        "Isolated and extracted dozens of common components from the existing codebase, creating both a reusable component library and design system",
-        "Wrote a complex, customized Material UI theme to match the bank's branding and design requirements",
-        "Stood up a StoryBook implementation to document and demonstrate the reusable components and design system",
-        "Created a library to serialize bank's data into XML messages compliant with Fedwire Funds Service ISO 20022",
-        "Co-designed a system-wide Notifications service on top of our existing Microservices architecture that could send real-time alerts to the user interface",
-        "Performed code reviews of both server and front-end code",
-        "Provided mentorship to junior developers"
+        "Maintained and continued development of the bank's existing .NET microservices",
+        "Created a .NET library to serialize bank's data into XML messages compliant with Fedwire Funds Service ISO 20022",
+        "Co-designed a system-wide Notifications .NET microservice could marshall real-time messages from all other services up to the user interface",
+        "Performed code reviews of both server and front-end code. Provided mentorship to junior developers",
+        "A principal developer of the user interface of the Bank's flagship application - using React, Material UI, NodeJS, and Vite",
+        "Isolated and extracted dozens of common components from the existing codebase, creating both a reusable component library and consistent design system",
+        "Stood up a Storybook implementation to document and demonstrate these reusable components and new design system"
       ],
-      "summary": "Tech: .NET Core, .NET Web API, Microservices Architecture, Docker/Kubernetes, NServiceBus, SignalR, JavaScript/TypeScript, NodeJS, React, Material UI, Vite, Git, Azure DevOps",
+      "summary": "Tech: .NET Core, .NET Web API, Microservices Architecture, Docker/Kubernetes, NServiceBus, SignalR, JavaScript/TypeScript, NodeJS, React, Material UI, Storybook, Vite, Git, NextJS, Azure DevOps",
       "logo": "/logos/finwise.jpg",
       "website": "https://www.finwise.bank/"
     },
@@ -50,7 +50,7 @@
         "Happy to demonstrate these Gaia web applications and walk through the architecture and code",
         "Perform technical interviews of contract developers, and coordinating their work and schedules; including offshore candidates"
       ],
-      "summary": "Tech: JavaScript/TypeScript, HTML, CSS, React, Material UI, NextJS, NodeJS, GraphQL, .NET, PostgreSQL, OpenLayers, Cesium, PostGIS, QGIS, ArcGIS, Git/GitHub, AWS, Azure",
+      "summary": "Tech: JavaScript/TypeScript, HTML, CSS, React, Material UI, NextJS, NodeJS, GraphQL, .NET, PostgreSQL, OpenLayers, Cesium, PostGIS, QGIS, ArcGIS, Git/GitHub, AWS (ECS, S3, Cognito), Azure",
       "logo": "/logos/equipgis.jpg",
       "website": "https://www.equipgis.com"
     }
@@ -67,7 +67,7 @@
         "Created new and optimized existing Oracle queries, functions, and stored procedures",
         "Created Unix shell scripts, Autosys jobs, and Oracle procedures to support critical ETL processes"
       ],
-      "summary": "Tech: .NET, C#, VB.NET, MSTest, ActiveReports, React, Redux, GraphQL, Oracle, Autosys, Unix Shell Scripts, Perl, Eagle PACE, Jenkins, ANT, Jira, Git, SVN, CVS",
+      "summary": "Tech: .NET, C#, VB.NET, MSTest, ActiveReports, React, Redux, GraphQL, Oracle, Autosys, Kafka, Unix Shell Scripts, Perl, Eagle PACE, Jenkins, ANT, Jira, Git, SVN, CVS",
       "logo": "/logos/wam.jpg",
       "website": "https://www.westernasset.com"
     },
@@ -77,7 +77,7 @@
       "startDate": "8/1/2016",
       "endDate": "4/31/2017",
       "details": [
-        "Senior developer on two public-facing, high traffic ASP.NET-based websites for Hawaii’s largest health insurance provider",
+        "Senior developer on two public-facing, high traffic ASP.NET-based websites for Hawaii's largest health insurance provider",
         "Wrote production code and unit tests for all layers including the ASP.NET/jQuery user interface, Web API and WCF web services, Entity Framework based data layer, and SQL Server stored procedures",
         "Lead efforts to write missing Unit Tests and dramatically increase code coverage across all JavaScript and C# code and to drive team toward true Test-Driven Development (Red-Green-Refactor)",
         "Wrote several web components, a boilerplate project, and a styleguide as part of an initiative to begin modernizing the front-ends to use a new ReactJS, Redux, and GraphQL stack",
@@ -93,7 +93,7 @@
       "startDate": "11/1/2014",
       "endDate": "5/31/2016",
       "details": [
-        "Hired as the company’s first engineer to help build out their new development team using Lean/Agile/Scrum",
+        "Hired as the company's first engineer to help build out their new development team using Lean/Agile/Scrum",
         "Developed early MVPs and prototypes that were crucial in securing $4 million in funding",
         "Helped architect and develop a suite of web-based GIS applications and real-time microservices",
         "Developed several front-end user interfaces using Modern Javascript, React/Redux/GraphQL, jQuery, and Kendo UI",
@@ -119,7 +119,7 @@
         "Created several SPA web applications using that framework for the U.S. Navy (DoD), U.S. Department of Agriculture (USDA), and U.S. Department of Housing and Urban Development (HUD) (latter available publicly at https://resources.hud.gov/)",
         "Leveraged my unique experience across several projects with the Federal government to provide creative solutions to technical problems posed by working within these often very rigid and secure environments",
         "Provided company-wide guidance on all aspects of Software Development, including Lean/Agile, Peer Code Review, Test Driven Development (TDD), Source Code Control, Release Management, Configuration Management, Continuous Deployment and Integration",
-        "Played an integral role in the company’s successful effort to become CMMI certified",
+        "Played an integral role in the company's successful effort to become CMMI certified",
         "Performed technical interviews, mentoring of junior developers, and onboarding of new hires"
       ],
       "summary": "Tech: ArcGIS, Bootstrap, JavaScript, Kendo UI, jQuery, dojo, AngularJS, Node.js, Grunt, Gulp, Bower, C#, .NET, ASP.NET, MVC, Web API, LINQ, Entity Framework, SQL Server, Oracle, YouTrack, TeamCity, GitHub, Oracle, SQL Server, Github, Team Foundation Server, Amazon Web Services",
@@ -133,7 +133,7 @@
       "startDate": "2/1/2009",
       "endDate": "4/31/2013",
       "details": [
-        "Converted from contractor to full time employee when GIS, Inc. was awarded the contract for the project I was working on with NAVFAC, below.  Served as senior developer/tech lead on distributed Agile team. Principal developer of the Oracle and .NET back-end of the Navy's large enterprise GIS solution named GeoReadiness; an ArcGIS-based mapping application used to manage resources and facilities at naval bases worldwide. Developed GIS Inc.’s Source Code Control and Continuous Integration strategies, and helped implement formal Agile/Scrum practices for our geographically dispersed team. Granted Secret level security clearance with DoD."
+        "Converted from contractor to full time employee when GIS, Inc. was awarded the contract for the project I was working on with NAVFAC, below.  Served as senior developer/tech lead on distributed Agile team. Principal developer of the Oracle and .NET back-end of the Navy's large enterprise GIS solution named GeoReadiness; an ArcGIS-based mapping application used to manage resources and facilities at naval bases worldwide. Developed GIS Inc.'s Source Code Control and Continuous Integration strategies, and helped implement formal Agile/Scrum practices for our geographically dispersed team. Granted Secret level security clearance with DoD."
       ],
       "summary": "Tech: .NET 3.5-4.5, C#, Oracle, SQL Server, REST, SOAP, ArcGIS Server, ArcGIS Desktop Extensions, ArcGIS API for JavaScript, Silverlight, and Flex, JavaScript, HTML, CSS, SVN, Git, OnTime",
       "logo": "/logos/gisinc.jpg",
@@ -159,7 +159,7 @@
       "startDate": "8/1/2001",
       "endDate": "10/31/2012",
       "details": [
-        "Developed key portions of LPL’s web-based financial investment and trading software suite, BranchNet; including modules responsible for Account and Portfolio management, as well as an enhanced security model.  Developed multi-tiered web applications starting with traditional ASP and C++ and eventually migrating to .NET in 2002.  Data on SQL Server and 3rd party mainframes was managed by reusable COM components written in C++ and by .NET assemblies written in C#.  Championed the early use of XML/XSLT and XMLHTTP/AJAX, to create more robust web forms and reports.  Spearheaded the shift in development philosophy at LPL toward reusable component design and a layered application framework.  Identified and fixed memory leaks and un-optimized code in legacy components."
+        "Developed key portions of LPL's web-based financial investment and trading software suite, BranchNet; including modules responsible for Account and Portfolio management, as well as an enhanced security model.  Developed multi-tiered web applications starting with traditional ASP and C++ and eventually migrating to .NET in 2002.  Data on SQL Server and 3rd party mainframes was managed by reusable COM components written in C++ and by .NET assemblies written in C#.  Championed the early use of XML/XSLT and XMLHTTP/AJAX, to create more robust web forms and reports.  Spearheaded the shift in development philosophy at LPL toward reusable component design and a layered application framework.  Identified and fixed memory leaks and un-optimized code in legacy components."
       ],
       "summary": "Tech: .NET 1.1-3.5, ASP.NET, C#, C++, COM, DCOM, .NET Remoting, WebForms, AJAX, SQL Server, Oracle, COM, DCOM, C++, Visual SourceSafe. StarTeam",
       "logo": "/logos/lpl.jpg",
